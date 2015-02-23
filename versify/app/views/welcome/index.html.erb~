@@ -1,2 +1,24 @@
-<h1>Welcome#index</h1>
-  <p>Find me in app/views/welcome/index.html.erb</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Versify</title>
+  </head>
+  <body>
+    <div id="main-container" class="container-fluid">
+      <div id="row">
+	<div id="sidebar" class="col-xs-3">
+	
+	</div>
+	<div id ="content" class="col-xs-9">
+	  <ul>
+	    <li>Home</li>
+	    <li>About</li>
+	    <li>Leaderboard</li>
+	  </ul>
+	</div>
+      </div>
+    </div>
+  </body>
+
+
+</html>
